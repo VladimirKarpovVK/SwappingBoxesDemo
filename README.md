@@ -1,2 +1,0 @@
-# SwappingBoxesDemo
-Created with CodeSandbox

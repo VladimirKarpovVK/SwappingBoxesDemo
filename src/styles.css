@@ -1,0 +1,24 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+* {
+  box-sizing: border-box;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.boxes {
+  padding: 0;
+  display: flex;
+  width: 100%;
+}
+
+.box {
+  width: calc(94% / 6);
+  margin: 2%;
+  height: 100px;
+  background-color: tomato;
+}
